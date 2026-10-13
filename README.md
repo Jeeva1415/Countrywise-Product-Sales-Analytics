@@ -17,5 +17,3 @@ An interactive Power BI dashboard that analyzes 700+ sales records across 5 coun
 ## Files
 - `YourFileName.pbix`: Power BI dashboard (open with Power BI Desktop)
 
-## Dashboard Preview
-![Dashboard](dashboard.png)
