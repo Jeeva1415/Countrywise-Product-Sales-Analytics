@@ -14,6 +14,5 @@ An interactive Power BI dashboard that analyzes 700+ sales records across 5 coun
 - Cleaned and modeled multi-year (2018-2019) sales data.
 - Ensured accurate country-level and product-level reporting.
 
-## Files
-- `YourFileName.pbix`: Power BI dashboard (open with Power BI Desktop)
+
 
